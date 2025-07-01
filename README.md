@@ -3,8 +3,7 @@ A brief info of the state of the consensus
 
 <details>
   <summary>Quick start:</summary>
-
-```  
+ 
 Autorefresh not yet implemented as a workaround you can use bash trick:  
 ```while true; do; sleep 3 && python ./consensus.py;done```
 </details>
